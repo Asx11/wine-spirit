@@ -34,3 +34,6 @@ Describing the dataset
     the kmeans clustering algorithm
     
     the PCA clustering algorithm
+
+
+product_ca is csv file contains turnover per product, id product, id web and product name
